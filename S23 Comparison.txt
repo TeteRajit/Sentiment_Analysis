@@ -1,0 +1,303 @@
+﻿Nothing Phone (2) vs Samsung Galaxy S23 Plus
+
+
+Nothing Phone (2), the latest and greatest phone coming out of Carl Pei's new Nothing undertaking, is now official and definitely ready to start taking names. One of those is the superb Galaxy S23 Plus, an Android contender that passes as middle-of-the-range flagship phone these days and embodies the best of Samsung's achevements in the classic phone form factor, barring the Galaxy S23 Ultra cherry on top of it all.
+
+
+Design and Display Quality
+
+
+The size difference between the Nothing Phone (2) and the Galaxy S23 Plus isn't that stark. Both phones have mostly similar footprints given that the display size discrepancy is marginal. The Nothing Phone (2) stands at 6.38 x 3.01 x 0.34 inches (162.1 x 76.4 x 8.6 mm), while the Galaxy S23 is marginally more compact at 6.21 x 3.00 x 0.30 inches (157.8x76.2x7.6mm). 
+
+
+The Samsung phone is thinner, shorter, and narrower by a little, but you probably wouldn't notice that. The Galaxy S23 Plus weighs 6.91 oz (196.0 g), while its contender tips the scales at 7.10 oz (201.2 g).Both phones are aluminum/glass sandwiches, though the Nothing Phone (2) is noticeably more slippery than the Galaxy S23 Plus, so you will probably have to be a tad more careful when handling it, especially without a case on. 
+That said, Nothing's new phone has a slightly curved back, which makes it ergonomically pleasing and doesn't really cave into your palm like the Nothing Phone (1) did. The same is generally true about the Galaxy S23 Plus as well: although its front and back are completely flat, the slightly curved side frame makes up for that and boosts the ergonomics. 
+
+
+In terms of durability, the Galaxy S23 Plus is the easy winner, having a very decent IP68 rating, which means it can be submerged under water for long amounts of time without the risk of damage. Meanwhile, the Nothing Phone (2) "only" has an IP54 rating, making it splash-proof from any angle, but nothing more, so you'd be wise to keep it clear of pools, lakes, and other deep water bodies.
+
+
+In terms of colors, the Nothing Phone (2) is available in the classic Black and White, while the Galaxy S23 Plus has a lot more variety in store: Phantom Black, Green, Lavender, and Cream, as well as the Samsung.com-exclusive Lime and Graphite. 
+
+
+However, the Nothing Phone (2) has a signature design aspect that the Galaxy simply can't emulate––the customizable and intriguing Glyph Interface. With significantly more LEDs at the rear of the device, the phone can now display sophisticated patterns and even progress bars, as well as show you custom notifications with intricate visual-taptic sequences. Neat, but possibly gimmicky depending on your unique needs.
+When it comes to the display, the two aren't that different. Sure, the Nothing Phone (2) technically sports a larger 6.7-inch OLED display in comparison with the 6.6-inch Dynamic AMOLED screen on the Galaxy S23 Plus, but the display technology is pretty much the same, so color fidelity, maximum brightness and viewing angles are pretty comparable between the two devices. Both phones have LTPO displays. This fancy initialism essentially means these Android phones have very smooth screens with refresh rates that can range between 1Hz and 120Hz depending on the on-screen context. A pretty standard flagship feature these days, so all is good!
+
+
+In terms of maximum brightness, another vital aspect of a screen, the differences between the Nothing Phone and the Galaxy aren't that big, with both in the ballpark of 1,000 nits. Our display tests give the upper hand to the Galaxy though. When it comes to minimum brightness, the Samsung phone also has the lead, capable of hitting sub 1-nit levels of brightness.
+Performance and Software
+This year, Samsung made a first and didn't use the Exynos chips on its flagship phones. Instead, the Snapdragon 8 Gen 2 for Galaxy was used, a slightly improved version of the regular 4nm Snapdragon 8 Gen 2 chip. This Qualcomm chipset is definitely its fastest and most efficient so far, bringing both superb performance and excellent battery life to the mix, a much-needed change of pace for those Galaxy fans that have resided in former Exynos regions. 
+
+
+The Nothing Phone (2) houses the 'older' 4nm Snapdragon 8+ Gen 1 ticking inside. It's still a very fast chipset capable of delivering excellent performance in both tasking and everyday scenarios. While you will be missing on some of the extra performance brought by the newer generation of the chip, we don't feel that this is such an issue. If anything, it's almost impossible to spot any tangible difference between the older and the newer Snapdragon chips in daily use. 
+The Nothing Phone (2) starts with 8GB of RAM and 128GB of storage. while the Galaxy S23 Plus is available with 256GB of on-board storage and 8GB of fast LPDDR5X RAM. While you can have both the the Galaxy S23 Plus and the Nothing Phone (2) with 256 and 512GB of storage, the Samsung flagship will never sport more than 8GB of RAM, while its competitor bumps the memory to 12GB as soon as you step up to the 256GB storage option. 
+
+
+The Nothing Phone (2) will receive major Android versions until the summer of 2026, while the Galaxy S23 Plus should receive major Android versions until early 2027. In terms of security updates, Samsung will be supported until 2028, while the Nothing Phone (2) will cease to receive security patches by July 2027.
+
+
+Android 13 is running the show on either phone, but each phone's interface is quite different from the other. Samsung's One UI 5.1 is colorful and feature-rich, while Nothing ties to minimize distractions with its decidedly monochrome-heavy appearance. 
+
+
+
+
+
+
+
+
+
+
+
+
+Camera
+
+
+A pretty significant difference is immediately visible: the Nothing Phone (2) comes with two cameras at the rear, a 50MP 1/1.56" main camera with an f/1.9 aperture and a 50MP ultra-wide lens with an f/2.2 aperture.
+
+
+Meanwhile, the Galaxy S23 Plus has a triple array at the back, consisting of a 50MP main camera with a 1/1.56" sensor as well, a 12MP ultra-wide, and finally, a 3X optical zoom camera that allows for much further zooming in comparison with the lackluster in this regard Nothing Phone (2).
+In broad daylight, there certainly are differences between the new Nothing Phone and the Galaxy S23 Plus. The Nothing Phone (2) gives off Pixel-like vibes with its grittier slight under-exposure, which makes for a contrast-y look. The Galaxy S23 Plus gives off a more lively image, with slightly uplifted mid-tones and livelier colors in comparison. Although not that stark, you might start noticing some over-sharpening on the Samsung flagship.
+When it comes to low-light image rendition, the Nothing Phone (2) has some issues with nailing the dynamic range. The highlights are blown, which is evident in the light sources themselves, and the retained information in the shadow-y areas of the image is less than what you'd get with the Galaxy S23 Plus. The Samsung phone also has a better dynamic range and overall perceived sharpness. 
+When it comes to zoom quality, the Nothing Phone (2) can hold its ground against the Galaxy until 3X, but once the telephoto camera of the Galaxy S23 joins the battle, the Nothing Phone (2) is easily outflanked. The slightly excessive oversharpening of the Galaxy is once again visible in these sets of samples. 
+The Nothing Phone does a fairly good job at isolating the subject from the background, though some artifacts can be seen, not to mention that the overall dynamics and exposure are moodier and grittier, if you will. The Galaxy S23 Plus does a better job at isolating the subject and also delivers much better exposure and dynamics, exposing the lovely dog's body in a much better way in comparison with the Nothing Phone. 
+Both devices can generally capture the same amount of scene. The most serious difference here are the slightly punchier colors of the Galaxy S23 Plus.
+
+
+Both phones take great selfies. The Galaxy S23 Plus delivers better details, but the Nothing Phone (2) doesn't lag behind too much. In terms of overall realism, it definitely is a toss-up between the two devices. 
+Audio Quality and Haptics
+The Nothing Phone (2) has some catching up to do with the Galaxy S23 Plus when it comes to audio quality. The phone sounds just fine, with slightly lackluster base and highs, and overall the sound reproduction is not terribly exciting. The Samsung phone delivers meatier sound that is more enjoyable to listen to. 
+
+
+Haptics on the Nothing Phone (2) are improved in comparison with the Nothing Phone (1). The Galaxy S23 Plus has a slight edge here, with its haptic engine delivering slightly more accurate and precise "clicks".
+
+
+Battery Life and Charging
+
+
+Both devices sport 4,700mAh batteries at the back, so the final endurance will be decided by the overall efficiency of the chipset and the optimization of the other power-hungry components. 
+Both devices sport 4,700mAh batteries at the back, so the final endurance will be decided by the overall efficiency of the chipset and the optimization of the other power-hungry components. 
+When it comes to charging, the Nothing Phone (2) matches the 45W charging that the Galaxy S23 Plus is capable of. While neither phone has a charger in the box, at least the both of them support wireless and reverse wireless charging. 
+Summary and Final Verdict
+While the Nothing Phone (2) certainly builds upon the robust foundation established by the first Nothing Phone, it still has some ground to cover before it could truly rival proper flagships like the Galaxy S23 Plus.
+Don't get us wrong, the Nothing Phone (2) is great value and definitely stands up to the Galaxy, there's some premium polish involved with the Samsung flagship that definitely is missing from the Nothing Phone (2). 
+
+
+On the other hand, the Nothing Phone (2) might win you over with the plethora of customization options as well as the natural image quality that its cameras deliver. Paired with the novelty of the Glyph Interface, this phone is certainly a conversation starter that stands out among the sea of iPhones and Galaxies. It's also more affordable, so you won't be breaking the bank. 
+
+
+Even though it lacks a zoom camera and might not be that future-proof due to the older chipset inside, the Nothing Phone (2) is a good alternative to the Galaxy S23 Plus that you should probably shortlist if you're on the market for a new phone in mid-2023. 
+
+
+Samsung Galaxy S23 Plus vs. Google Pixel 7
+
+
+Google offers one of the most affordable and excellent flagship phones in the Android space, the Pixel 7 Pro. For comparison, Samsung reserves many of its best tools for the pricier Ultra lineup; so the Galaxy S23+, which costs $100 more than the Pixel 7 Pro, ends up with several downgrades that put Google on top. 
+
+
+Despite this, there are a couple of key reasons why the newer, second-tier Galaxy S23+ is actually an upgrade over the Pixel 7 Pro, our current pick for the best Android phone. Let's dive into the Samsung Galaxy S23+ vs. Google Pixel 7 Pro to see how they compare. 
+
+
+
+
+Design and display
+Samsung barely changed the S23+ design compared to last year's Galaxy S22 Plus. Both have a flat glass back and wide, angular edges, with the buttons blending into whichever aluminum color you choose. 
+In our S23+ review, we noted that "Samsung nailed the dimensions of the S23+" because it maximizes the size of display while still being comfortable to hold compared to larger, curved flagships — like the Pixel 7 Pro.
+At 6.7 inches, the Pixel 7 Pro offsets its width with a curved edge that our reviewer (who also reviewed the S23+) found a bit "awkward to use. It's also fairly heavier than the S23+.
+Each phone makes its design mark with a distinctive camera layout. The Galaxy S23+ sports a vertical strip of naked camera sensors, mirroring the look of the Galaxy S22 Ultra; it's certainly striking, but without a case, you may deal with dirt and grime getting caught between the sensors. 
+As for the Pixel 7 Pro, it has a metal camera bar spanning the width of the phone with cutouts for its camera sensors. We find it quite elegant, but it adds to the phone's weight and thickness when sticking the Pro in your pocket.
+At 6.7 inches, the Pixel 7 Pro offsets its width with a curved edge that our reviewer (who also reviewed the S23+) found a bit "awkward to use. It's also fairly heavier than the S23+.
+Each phone makes its design mark with a distinctive camera layout. The Galaxy S23+ sports a vertical strip of naked camera sensors, mirroring the look of the Galaxy S22 Ultra; it's certainly striking, but without a case, you may deal with dirt and grime getting caught between the sensors. 
+As for the Pixel 7 Pro, it has a metal camera bar spanning the width of the phone with cutouts for its camera sensors. We find it quite elegant, but it adds to the phone's weight and thickness when sticking the Pro in your pocket.
+As for both phones' respective displays, the quality edge goes to Google here, with one minor exception. 
+The Galaxy S23+ has a perfectly respectable FHD+ display with 393 pixels per inch, a 120Hz refresh rate, up to 1,750 nits of peak brightness in direct sunlight (or 1,200 for HDR content), and excellent color fidelity.
+Compared to the dim Pixel 6 Pro, the Pixel 7 Pro can hit 1,500 at peak levels or 1,000 for HDR content, which is perfectly respectable even if it falls short of Samsung. Otherwise, though, its QHD display gives you an extra 119ppi, and the LTPO technology means its 120Hz display can dip as low as 10Hz for apps or functions that don't need high refresh rates, saving you a ton on battery life; for contrast, the S23+ only dips to 48Hz.
+If we have one complaint, it's that Google gave the Pixel 7 Pro's display ultra-thin bezels that, combined with the curved display, gave our reviewer frequent accidental touches. With the flat-sided S23+, you won't have that problem.
+Performance and battery life
+When you buy a flagship phone, you expect fast performance. With both of these phones, you can certainly expect fast browsing for day-to-day use, but you'll also have to accept some compromises whichever you choose. 
+Google built the Tensor G2 chip using the same cores and 5nm node as the Pixel 6 series, while Samsung has the benefit of the 4nm Snapdragon 8 Gen 2 with the latest cutting-edge cores. 
+Our Pixel 7 Pro reviewer benchmarked the phone and found that it did decently well compared to other 2022 phones for productivity, and had consistent gaming performance marked by "smooth framerates without any lag." But it was by no means cutting-edge last year, and doesn't keep up with 2023 flagships because of the 2021 hardware.
+With the Galaxy S23+, you get 4GB less RAM than the Pixel 7 Pro; but thanks to the Snapdragon 8 Gen 2, it actually delivers better benchmarks and performance overall. Our reviewer raved that the S23+ gives you "lag-free gaming even during extended sessions" at 120fps, a noticeable improvement in fluidity, and "no slowdowns whatsoever in daily use."
+The Pixel 7 Pro remains stuck with UFS 3.1 storage, whereas the Galaxy S23+ has UFS 4.0 storage. For those who don't know the difference, the latest standard essentially doubles your read/write speed when sending data to and from your storage, while also sending it nearly half as efficiently. That means gaming download and load times will be significantly shorter, while also using less battery and keeping the phone running cooler. 
+All in all, the Galaxy S23+ is our recommendation if you want a dedicated gaming phone that's more comfortable to hold than the S23 Ultra — even though games on the Pixel 7 Pro's QHD display might look slightly richer.
+Processor and RAM aside, these two phones share many hardware similarities: in-screen fingerprint sensor, Ultra Wideband, a wide range of 5G bands, and Wi-Fi 6E support. Their cameras are also quite similar, though we'll discuss those more below. Samsung does come ahead with the latest Bluetooth 5.3 standard, which wasn't as common last year.
+Google gave the Pixel 7 Pro a slightly larger battery capacity than the S23+ at 5,000mAh vs. 4,800mAh. With a month of extensive testing, the Pixel 7 Pro will reliably last you all day after 5 hours of screen time with about 20% battery remaining; generally speaking, you'll have no "battery anxiety" with this phone unless you're gaming all day. 
+Thankfully, we're also quite happy with the Galaxy S23+ battery life despite the smaller capacity. Thanks to the more energy-efficient Snapdragon 8 Gen 2, the S23+ "easily manages to last well over a day" even with "heavy use."
+As for charging, the Google Pixel 7 Pro will take about 90 minutes to recharge with 30W capacity. The Galaxy S23+ wins in this category with 45W charging, though Samsung doesn't always take full advantage of the speed in order to preserve battery life; it's faster to hit 50%, but will take only slightly less time to hit 100%. 
+Cameras
+Samsung and Google have comparable wide and ultra-wide camera lenses, but the Pixel 7 Pro has a higher megapixel count and better zoom on its telephoto lens, while Samsung's selfie camera has a slight MP edge.
+The Galaxy S23+ uses the same camera hardware as the Galaxy S22+, except for a new 12MP selfie camera that's the same as the one found in the Galaxy S23 Ultra. In our S23 Ultra camera review, we found the selfie quality to be "the best in the business" with "superb dynamic range" and the benefit of AI detection to better contrast the shooter with their background — and this applies to the S23+, too.
+Generally speaking, Samsung has a "signature contrast look" to its photos after post-processing, but our reviewer found that it's less pronounced than with the last generation despite using the same hardware. Dynamic range and detail improved for daytime shots, while Night shots have seen a dramatic improvement.
+Still, the Galaxy S23 Ultra vs. Pixel 7 Pro is the better battle to pay attention to if you're a smartphone camera aficionado. The S23+ is more middle-of-the-road compared to both phones. And like most Samsung phones, it struggles to capture fast-moving objects.
+By contrast, Google's biggest strength is in its photography, both in terms of quality and cool features like Magic Eraser and Photo Unblur to retroactively improve photos with awkward distractions or blurry composition. Google's Real Tone gives much better skin tone quality, something Samsung still doesn't pay particular attention to, and Pixels remain the best in the business for action photos.
+In terms of overall quality, our reviewer explained how it does a "phenomenal job" capturing details and color range in daytime photos, but does even better with its Night Sight photos for "maintaining highlights while preserving finer details."
+
+
+Final Verdict
+It's difficult to give a definitive "this phone is better" ruling, as you may prefer stock Android 13 or One UI 5 for your interface, and because both phones have their own strengths and weaknesses. 
+Google's Pixel 7 Pro is honestly close to a Pixel 6.5 Pro, refining the 2021 phone's design and fixing its mistakes but keeping much of the same hardware. So if you want a phone you'll use for years, the Tensor G2 and UFS 3.1 storage won't have the same longevity as the Galaxy S23 Plus' 2023 tech. 
+Then you have the Galaxy S23+, which is held back instead by Samsung's insistence on reserving features like upgraded cameras, a QHD display, and extra RAM for its Ultra lineup. Even with better performance and extra storage, you have to accept a downgrade compared to the Pixel 7 Pro in certain areas (mainly photography). 
+In the end, Google's phone is still a fantastic option today, while the Galaxy S23+ should be one of the best phones of the year if the Ultra costs too much for you. So your choice will come down to what you prioritize in a phone.
+Samsung Galaxy S23 vs iPhone 14 Pro
+
+
+Samsung has released its answer to the iPhone 14 Pro and other smartphones. Here's how the Galaxy S23 compares against the iPhone 14 Pro.
+Samsung has officially introduced its new array of smartphones, which includes the Galaxy S23, Galaxy S23+, and Galaxy S23 Ultra, a few months after Apple released its iPhone 14 lineup.
+The firm unveiled the new gadgets on February 1 during its Unpacked event, as it does every year during the first quarter of a year. As expected, the most recent versions offer several enhancements and additions over the 2022 Galaxy line.
+Display
+A Super Retina XDR Display using OLED technology is found on the iPhone 14 Pro, which has a pixel density of 460 and a resolution of 2,556 by 1,179.
+It's an always-on display with ProMotion technology that has adaptive refresh rates up to 120Hz, and a contrast ratio of 2,000,000:1. The iPhone also has a max brightness of 1,000 nits, 1,600 brightness for HDR content, and it can push to 2,000 nits peak brightness outdoors.
+The Galaxy S23 display is 6.1 inches, with a resolution of 2,340 by 1,080 pixels and a density of 425 pixels per inch. Unlike the iPhone 14 Pro, Samsung uses Dynamic AMOLED 2X technology in the Galaxy S23 display. But it similarly offers refresh rates at up to 120Hz, and a touch sampling rate of 240Hz in Game Mode.
+As a type of OLED display, AMOLED technology offers a few advantages, such as consuming less power and showing more vibrant colors. These displays are also thinner and more flexible, as evident in Samsung's folding smartphones.
+However, AMOLED technology tends to be more expensive than OLED and is less visible in direct sunlight. The iPhone's display can reach 2,000 nits in outdoor settings, giving it an advantage over the Galaxy S23.
+Processor
+The second-generation Qualcomm Snapdragon 8 powers the Galaxy S23 with four performance cores and three efficiency cores. It also has an Adreno GPU with hardware-accelerated ray tracing for gaming for better lighting, shadows, and illumination effects.
+It offers improvements in artificial intelligence, such as up to 4.35x faster performance than the previous generation.
+For instance, Qualcomm built its first camera processor with artificial intelligence into the chip. Its image signal processor supports 8K video capture in 10-bit HDR and photo capture at up to 200 megapixels.
+Similar to Apple's computational photography process, the Snapdragon 8 has Real-Time Semantic Segmentation. During processing, the chip can independently apply different noise reduction, sharpening, and color correction levels in up to eight photo layers.
+Qualcomm has also added Bokeh Engine 2 to the new processor, which can adjust the blurred background's quality, intensity, and shape in portrait-style images and videos. Other enhancements in the photography features include greater local tone mapping, improved image stabilization, and updated auto exposure, compared to the Snapdragon 8 Gen 1.
+On Apple's side, an A16 Bionic chip powers the iPhone 14 Pro, and the CPU of six cores has four for efficiency and two for performance. It also has a 16-core Neural Engine capable of nearly 17 trillion operations per second, and a 5-core GPU.
+Benchmarks for A16 Bionic on an iPhone 14 Pro show a single-core score of 1,882 and a multi-core score of 5,584.
+Benchmarks for the Galaxy S23 have yet to be released, but CPU scores leaked in February. The Galaxy S23 showed that it managed 1,473 in single-core performance and 4,718 for multi-core performance.
+Those scores bring it into the vicinity of the A16 Bionic, although real-world usage will provide a better idea of how it fares against Apple's optimized chip design for its software and hardware.
+Geekbench shows a Metal score of 15,386 for the A16 Bionic chip found inside the iPhone 14 Pro. Although the Galaxy S23 doesn't have GPU scores yet, some benchmarks show it exceeding the A16 in some charts, but falling behind in others. For example, while it doesn't list numbers, the chart for 3DMark Wild Life Extreme Unlimited shows the two chips pretty close in score.
+Battery
+With a 3,200mAh battery, the iPhone 14 Pro can run up to 23 hours of video playback and up to 20 hours of streamed video. It can deliver up to 75 hours of audio playback, however.
+The Galaxy S23's battery has a 3,900mAh capacity, and its battery life will be known once reviewers test it.
+Although Samsung's smartphone has a higher capacity than the iPhone 14 Pro, it may not necessarily beat it based on specs alone. Apple's A-series of processors tend to perform better than Snapdragon, including power efficiency.
+Apple claims that the iPhone 14 Pro can reach up to a 50% battery charge in 30 minutes when using a 20W or higher charging adapter. Samsung lists similar charging for the Galaxy S23, except it requires a 25W charger to meet 50% battery in 30 minutes.
+Cables are another difference, as the Galaxy S23 has a USB-C port, and the iPhone 14 Pro has a Lightning port.
+With MagSafe on the iPhone 14 and Qi on the Galaxy S23, both smartphones have the option of wireless charging. MagSafe, at 15W of power, can charge an iPhone 14 Pro in roughly two hours.
+Fast-charging time isn't known yet for the Galaxy S23, but Samsung's Fast Charging 2.0 reaches around the same time, as seen in some reviews.
+Cameras
+The Galaxy S23's primary camera system consists of a 50-megapixel wide camera with f/1.8 aperture, a 12-megapixel ultra-wide lens with f/2.2 aperture, and a 10-megapixel telephoto lens with f/2.4 aperture and 3x optical zoom. Its front camera boasts a 12-megapixel lens with an f/2.2 aperture.
+Apple made several updates to the camera system when it debuted the iPhone 14 Pro. For example, a new Photonic Engine significantly improves low-light performance in photos across all the cameras.
+It applies the Deep Fusion computational photography earlier in the imaging process to preserve textures and details and offers improved color. The iPhone 14 Pro also introduces a 48MP 24mm Main camera with a quad-pixel sensor and f/1.78 aperture.
+For most photos, the quad-pixel sensor combines every four pixels into one sizeable quad-pixel equivalent to 2.44 microns, resulting in better low-light capture. The sensor also benefits pro workflows, optimizing for detail in ProRAW.
+The quad-pixel sensor also allows for a 2x Telephoto option on the 48MP camera, which employs the center 12 megapixels of the sensor to produce 4K films and full-resolution images without using digital zoom.
+The new 12MP Ultra Wide camera on the iPhone 14 Pro has 1.4-micron pixels, improving macro photography capabilities by producing crisper, more detailed photographs. The aperture of the camera is f/2.2 with a 120-degree field of view.
+The 12MP Telephoto camera on the iPhone 14 Pro has an f/2.8 aperture and a 3x optical zoom range. Additionally, a new TrueDepth camera system on the front sports an f/1.9 aperture for improved low-light selfie and video performance and brings autofocus in the front camera for the first time.
+Final Verdict
+The larger 50MP sensor on the Galaxy S23 may tempt some mobile photographers. The architecture on the chip powers real-time Semantic Segmentation to recognize and optimize each aspect within a frame — like faces, hair, clothes, and backgrounds — during the capturing process.
+However, another factor to consider is the iPhone 14 Pro, with more storage options for high-quality photos and videos. Higher storage is mainly for people who like to keep their files offline on their devices instead of offloading them to the cloud.
+Processing on each device is pretty similar, and the Galaxy S23 doesn't fall too far behind the iPhone 14 Pro. But, of course, Apple optimizes its entire stack of hardware, software, and chips to work efficiently together.
+The Galaxy S23 is a worthy opponent, and those who are platform-agnostic and don't make a fuss about the operating system may consider it a worthwhile purchase.
+
+
+
+
+
+
+
+
+OnePlus 11 vs Samsung Galaxy S23
+Samsung might be the largest player in the Android smartphone game, but OnePlus is the brand that made flagship killers a thing. The OnePlus 11 is the latest and greatest from the OG flagship killer, and this year, the BBK sub-brand is returning to basics and keeping it lean with a single flagship to carry it through the year. On the other side of the ring is the Samsung Galaxy S23, the Korean company’s latest compact flagship that plays in the same value flagship space as OnePlus. Both phones have their merits and have received a serious dose of refinement this year, making picking one over the other ever so hard. Follow along as we help you navigate the waters and settle the OnePlus 11 vs Samsung Galaxy S23 debate.
+
+
+
+
+OnePlus 11 vs Samsung Galaxy S23: At a glance
+The OnePlus 11 and Samsung Galaxy S23 might play in the same relative space, but the two phones are poles apart in their approach toward design and even hardware to a degree.
+* The OnePlus 11 is cheaper than the Galaxy S23.
+* Both phones sport a Qualcomm Snapdragon 8 Gen 2 chipset, but the Galaxy S23 comes with a modified version of it for faster performance.
+* The OnePlus 11 can be had with more RAM.
+* The OnePlus 11 has a bigger battery and supports faster charging.
+* The Samsung Galaxy S23 lets you go further with a 3x telephoto zoom compared to the 2x lens on the OnePlus.
+* The Galaxy S23 has wireless charging and a better IP rating for water/dust protection.
+* The OnePlus 11 opts for an older Gorilla Glass 5 solution for protection, while the Samsung Galaxy S23 offers Gorilla Glass Victus 2.
+The OnePlus 11 and Samsung Galaxy S23 are some of the best Android phones on the market right now. While they might seem to target the same market segment, there are subtle differences strewn across the entire package, and that’s before we talk about the obvious difference in size.
+The size difference between the OnePlus 11 and the Galaxy S23 is the obvious one. The OnePlus 11 sports a 6.7-inch display against the smaller 6.1-inch panel on the Galaxy S23. There’s also a difference in resolution, with the Galaxy S23 sporting a Full HD+ resolution, while OnePlus 11’s panel comes in at QHD+. The display of the OnePlus 11 is also curved on the sides, which can either be a good or a bad thing depending on your preference.
+While both phones come equipped with a Snapdragon 8 Gen 2 chipset, the one that’s powering the Samsung Galaxy S23 is modified for faster performance. We’ve tested the Snapdragon 8 Gen 2 for Galaxy, and here are our results. However, OnePlus wins out with the sheer array of options it offers. The base variant kicks things off with 8GB of RAM and 128GB of storage, and users can opt for 256GB or 512GB of storage with options for 12GB or 16GB of RAM on the middle-of-the-line model. 
+The Galaxy S23, on the other hand, keeps it simple with a consistent 8GB of RAM across the board and options for 128GB, 256GB, or 512GB of storage.The gap between the two phones widens when it comes to additions or omissions like IP ratings and wireless charging. For example, the OnePlus 11 has a basic IP54 rating that will offer splash resistance but not much protection against immersion. The Galaxy S23, on the other hand, sports a full-fledged IP68 rating. The OnePlus 11 also misses out on table stakes like wireless charging.
+When it comes to software, both phones run Android 13 and will get four OS updates and five years of security updates. The Galaxy S23 comes with One UI, while OnePlus has the company’s OxygenOS on board. There are a lot of differences between them, which you can check out in our dedicated One UI vs OxygenOS post. Both are great Android skins, so which one is better comes down to personal choice.
+There are other differences between the two phones, mainly when it comes to cameras and batteries. We have dedicated sections for those below.
+
+
+Size comparison
+There’s a clear and distinct difference between the size of the OnePlus 11 and the Galaxy S23. While the former approaches standard flagship dimensions with its large 6.7-inch AMOLED display, the Galaxy S23 is geared toward users who prefer something a bit more petite. Packing a 6.1-inch AMOLED screen, the Galaxy S23 is amongst the rare breed of pocket-friendly full-specced flagships. For users who want a larger display, Samsung offers the Galaxy S23 Plus. However, that phone operates in a very different price range.
+Switching over to absolute dimensions, the OnePlus 11 clocks in at 163.1 x 74.1 x 8.5mm and a hefty 205g. Meanwhile, the Galaxy S23 trims down the dimensions on all fronts and measures 163.1 x 74.1 x 8.5mm. The smaller size also means a much lighter phone that weighs a mere 168 grams.
+The OnePlus 11 is no behemoth. In fact, the tall aspect ratio lends itself nicely to single-handed use. However, compared to the Galaxy S23, it is certainly a handful. Samsung’s smallest device in its flagship lineup is the practical choice for anyone who prefers portability over absolute screen size. The flattened display also lends itself greatly to comfort, and the phone will easily slip into the skinniest of jeans.
+
+
+While the OnePlus 11 opts for a cyclopean circle with three camera lenses and a flash embedded in it, the Galaxy S23 opts for a much more understated design language. Gone is the segregated camera module, and instead, this year, Samsung has opted for three standalone lenses just like the Galaxy S23 Ultra, making it a perfect match for the rest of the Galaxy flagship lineup. Similarly, the OnePlus 11 opts for a curved, matte-finished back panel to better fit in the palm of the hand while Samsung has gone for a flat glass back with the S23. Both feel suitably premium, although the Galaxy S23’s construction leans towards a more premium appeal.
+Both phones are distinctive as well as visually appealing, and ultimately the choice between the two will boil down to your preference — portability or sheer screen real estate.
+Camera
+
+
+The OnePlus 11 and Samsung Galaxy S23 are more similar than different in the camera department. To start with, both phones have the same layout — a primary camera flanked by additional ultrawide and telephoto sensors. No superfluous macro or depth sensors here.
+Both phones employ a 50MP sensor as the primary camera. The OnePlus 11 switches out the IMX766 sensor from the OnePlus 10T for a 50MP IMx890. In day-to-day use, this shouldn’t make much of a difference. On the other hand, Samsung continues to use the same layout across all three cameras as it did with the S22 lineup. That’s no bad thing, as we lauded the camera setup on the S22 and S22 Plus for its superior imaging capabilities. This year, Samsung is touting additional features like better low-light photography as part of its Nightography feature set and improved AI processing to eke out more performance from the same sensor.
+The OnePlus 11 steps forward in sheer information-gathering capabilities with its secondary cameras. The 48MP ultrawide sensor is a cut above the 12MP shooter on the Galaxy S23. It should allow it to perform significantly better in poorly lit situations, though camera tuning will have the final say for real-world performance.
+On paper, the OnePlus 11 has a superior 32MP sensor mated to its telephoto lens. However, that lens tops off at just 2x zoom. The Galaxy S23, on the other hand, pairs its 10MP camera sensor with a 3x lens for added reach.
+As far as selfie cameras go, the OnePlus 11 deploys a familiar 16MP sensor. The Samsung Galaxy S23’s 12MP selfie shooter, however, offers additional capabilities like the ability to shoot 4K video at 30 or 60FPS. While both phones have capable hardware, OnePlus has traditionally output rather lackluster images despite the cutting-edge specs, and Samsung will likely edge out here despite its lower resolution sensors.
+Both phones offer a full suite of camera additions and a dedicated pro mode that will let you go above and beyond the automatic settings.
+All things considered, though, the specs are just numbers and letters on a sheet. They don’t really tell the whole story, and that’s what we found in our reviews of both phones. Samsung has dramatically better cameras than the OnePlus 11. In fact, the Samsung Galaxy S23 series has some of the best camera systems the industry has to offer.
+Meanwhile, we weren’t fans of the camera performance on the OnePlus 11. Colors were often a hit or miss, low-light photos were awful, and zoom capabilities are nothing to write home about. If you want a better camera, the Samsung Galaxy S23 has the OnePlus 11 beat by a mile.
+ Battery and charging
+
+
+The OnePlus 11 and Galaxy S23 play in very different demographics as far as size is concerned, so it is hard to draw a direct correlation between the battery capacities of the two phones. That said, OnePlus is sticking to its tried and tested 5,000mAh cell, which is good for almost two days of moderate use.
+Samsung, on the other hand, has upped its battery capacity this year. The Galaxy S23 goes from 3,700mAh on the S22 to 3,900mAh on the S23. Coupled with the more power-efficient Snapdragon 8 Gen 2 chipset and a smaller display, overall longevity should be much better, though not quite in the same league as the OnePlus.
+After testing both devices, we found that the Galaxy S23 is a very good performer in terms of battery life. We were able to make it last about a day and a half on a single charge. The OnePlus 11 doesn’t fall behind, though. We were able to use it for two days. But we still feel the Galaxy S23 is more efficient, as it accomplishes great battery life with a smaller battery.
+Where the OnePlus truly pulls ahead is in charging speeds. The phone ships with 100W support internationally and throttles it down to 80W in North America, which will get you a full charge in around 30 minutes, according to our testing. The Galaxy S23 peaks at 25W wired charging which will give you a 100% top-off in about 80 minutes. You do, however, get conveniences like 15W wireless charging and 4.5W reverse wireless charging with the Galaxy S23, which the OnePlus 11 doesn’t have.
+ Final Verdict 
+Deciding between the OnePlus 11 and the Samsung Galaxy S23 largely depends on what you value most — value or the overall package. OnePlus offers a bright, good-looking panel, all the power you need, and ultra-quick charging. The camera package is not great, but will please the average user looking to grab quick snaps on the go. All that at a price that is hard to beat.
+
+
+The Samsung Galaxy S23, on the other hand, is for the user who cares more about the experience and overall package. The compact size, a personal preference for sure, is part of a diminishing breed of comfortably sized smartphones. The screen itself is amongst the finest you can get on any smartphone. Add to that everyday niceties like an IP68 rating and wireless charging, and the phone starts making a lot of sense. Both phones are at par on paper as far as performance goes, but Samsung goes the extra mile with well-thought-out software additions. Not to mention it has an amazing camera system. Both phones are guaranteed to get four years of major software updates and five years of security patches.
+
+
+
+
+
+
+Samsung Galaxy S23 vs iPhone 14
+The Samsung Galaxy S23 and Samsung Galaxy S23 Plus aren't as exciting as the Samsung Galaxy S23 Ultra, but they’re also a lot more affordable – and will probably be very popular as a result.
+They have a lot of competition in this space though, as the S23 is directly competing with the iPhone 14, and for the first time Apple has a clear competitor to the Plus model too, in the form of the iPhone 14 Plus.
+So with that in mind we’ve compared the standard Galaxy S23 and Galaxy S23 Plus with the standard iPhone 14 and iPhone 14 Plus, to see which is likely to come out on top.
+ DESIGN
+The Samsung Galaxy S23 and Galaxy S23 Plus look pretty much identical to each other – just with the Plus model being bigger.
+They have flat screens with a punch-hole camera in the top center, while on the back the cameras jut out of the rear individually, rather than being housed in a camera block, as on the S22 and S22 Plus.
+The bezels are narrow – as you’d hope for high-end phones – and the back is made from glass and the frame from metal.
+In fact, both the back and display use tough Gorilla Glass Victus 2 for protection, and the phones include an IP68 rating for dust and water resistance, and come in a choice of Cream, Lavender, Green, Phantom Black, Lime, and Graphite shades. You can read more about the colors in our Samsung Galaxy S23 colors guide.
+As for their weight and dimensions, the Samsung Galaxy S23 is 146.3 x 70.9 x 7.6mm and 168g, while the Samsung Galaxy S23 Plus is 157.8 x 76.2 x 7.6mm and 196g.
+Next, we come to the iPhone 14 and iPhone 14 Plus, which also have flat screens, a glass back and a metal frame. However, they have a notch rather than a punch-hole camera, leaving them arguably looking less modern.
+They also have a camera block on the back rather than individual lenses, but they have an IP68 rating like Samsung’s phones, and they use Ceramic Shield tech to protect the display. So there are a lot of similarities here.
+The biggest difference is arguably the color choices, with these phones coming in a choice of Midnight (black), Purple, Starlight (off white), Product Red, or Blue.
+They also have different weights and dimensions, of course, with the iPhone 14 being 146.7 x 71.5 x 7.8mm and 172g, while the iPhone 14 Plus is 160.8 x 78.1 x 7.8mm and 203g.
+So the iPhone 14 is slightly larger and heavier than the Galaxy S23, while the iPhone 14 Plus is a little larger and heavier than the Galaxy S23 Plus, but not by much.
+DISPLAY
+The Samsung Galaxy S23 has a 6.1-inch 1080 x 2340 AMOLED screen with a 120Hz refresh rate, while the Samsung Galaxy S23 Plus has the same specs but attached to a 6.6-inch screen. That leads to 425 pixels per inch for the S23 and 393 for the Samsung Galaxy S23 Plus.
+As for the iPhone 14, that has a 6.1-inch 1170 x 2532 OLED screen with a 60Hz refresh rate and 460 pixels per inch, while the iPhone 14 Plus has a 6.7-inch 1284 x 2778 OLED display with a 60Hz refresh rate and 458 pixels per inch.
+The Samsung Galaxy S23 has a 6.1-inch 1080 x 2340 AMOLED screen with a 120Hz refresh rate, while the Samsung Galaxy S23 Plus has the same specs but attached to a 6.6-inch screen. That leads to 425 pixels per inch for the S23 and 393 for the Samsung Galaxy S23 Plus.
+As for the iPhone 14, that has a 6.1-inch 1170 x 2532 OLED screen with a 60Hz refresh rate and 460 pixels per inch, while the iPhone 14 Plus has a 6.7-inch 1284 x 2778 OLED display with a 60Hz refresh rate and 458 pixels per inch.
+CAMERAS
+The Samsung Galaxy S23 and Galaxy S23 Plus have the same cameras as each other – namely a 50MP f/1.8 main sensor, a 12MP f/2.2 ultra-wide, and a 10MP f/2.4 telephoto, with 3x optical zoom, along with a 12MP front-facing camera.
+The iPhone 14 and iPhone 14 Plus also have the same cameras as each other, specifically a 12MP f/1.5 main snapper, a 12MP f/2.4 ultra-wide, and a 12MP f/1.9 selfie camera.
+So these Galaxy S23 models have an extra sensor – specifically a telephoto one. The main sensor on the Samsung Galaxy S23 and S23 Plus also has more megapixels to play with.
+Of course, megapixels aren’t everything and Apple’s phones take great photos, but for versatility at the very least, the Galaxy S23 and Galaxy S23 Plus arguably have the better setup. Though it's a shame they haven't inherited the Samsung Galaxy S22 Ultra's 108MP sensor now that the S23 Ultra has moved on to a 200MP one.
+BATTERY
+The Samsung Galaxy S23 has a 3,900mAh battery with 25W wired charging and 15W wireless charging, while the Samsung Galaxy S23 Plus has a 4,700mAh battery with 45W wired charging and 15W wireless charging.
+That has the iPhone 14 and iPhone 14 Plus beat on paper, as the former has a 3,279mAh battery with 20W wired charging and 15W wireless, while the latter has a 4,323mAh battery with 20W wired charging and 15W wireless.
+The big win here then is the relatively speedy 45W charging speed offered by the Samsung Galaxy S23 Plus.
+In other areas the two Plus phones look fairly similar to each other for battery specs, as do the two standard models – albeit with Samsung having the edge for both speed and capacity.
+However, in our tests we found the iPhone 14 Plus had impressively good battery life, and Apple tends to make small capacities go further, so it will be interesting to see whether these Samsung Galaxy S23 models have Apple’s comparable phones beat in practice. We'll know once we've put them through a full review.
+SPECS AND FEATURES
+You shouldn’t feel short on power with any of these phones – Samsung’s run a supercharged version of the already flagship-class Snapdragon 8 Gen 2 chipset, while Apple’s use the company’s own powerful A15 Bionic chipset.
+If anything, the Samsung Galaxy S23 series might have the edge, which isn’t usually the case, but Apple decided to use a year-old chipset in the basic and Plus models of the iPhone 14. Either way though, there won't be much in it.
+For RAM, you’ll get 8GB with the Samsung Galaxy S23 and Galaxy S23 Plus, while the iPhone 14 and iPhone 14 Plus have just 6GB. But comparing RAM amounts in iPhones with Android phones is almost meaningless, because Apple makes a little go a long, long way.
+You shouldn’t feel short on power with any of these phones – Samsung’s run a supercharged version of the already flagship-class Snapdragon 8 Gen 2 chipset, while Apple’s use the company’s own powerful A15 Bionic chipset.
+If anything, the Samsung Galaxy S23 series might have the edge, which isn’t usually the case, but Apple decided to use a year-old chipset in the basic and Plus models of the iPhone 14. Either way though, there won't be much in it.
+For RAM, you’ll get 8GB with the Samsung Galaxy S23 and Galaxy S23 Plus, while the iPhone 14 and iPhone 14 Plus have just 6GB. But comparing RAM amounts in iPhones with Android phones is almost meaningless, because Apple makes a little go a long, long way.
+
+
+
+
+
+
+Based on specs and features, the Samsung Galaxy S23 and Galaxy S23 Plus should pose strong competition to the iPhone 14 and iPhone 14 Plus.
+
+
+Final Verdict
+Samsung’s phones have higher refresh rates, an arguably more modern design due to the lack of a notch, an extra camera, a newer chipset, bigger batteries, faster charging, and – at least in the case of the S23 Plus – more starting storage.
+The iPhones have fewer wins, at least on paper, but their screens are slightly higher resolution, there are more storage options, they offer emergency satellite communications, and the iPhone 14 Plus has a marginally larger screen than the Samsung Galaxy S23 Plus.
+Beyond that the available colors and their operating systems differ, while most other aspects are quite similar.
+The Samsung Galaxy S23 series is arguably slightly better on paper then, but it’s going to be a very close fight, and the overall winners won’t be known until Samsung’s phones have been put through a full TechRadar review. It’s likely though that these will all rank among the best smartphones.
